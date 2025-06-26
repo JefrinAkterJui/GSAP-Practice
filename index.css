@@ -7,7 +7,9 @@ html body{
     height: 100%;
     width: 100%;
 }
-
+body{
+    background: black;
+}
 .box1{
     width: 200px;
     height: 200px;
@@ -17,4 +19,9 @@ html body{
     width: 200px;
     height: 200px;
     background: green;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background: rgb(240, 255, 34);
 }
